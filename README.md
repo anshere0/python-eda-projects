@@ -38,6 +38,8 @@ Future ML Scope
 Recommendation systems
 Content popularity prediction
 Trend forecasting
+
+
 Tech Stack
 Python
 Pandas
@@ -46,7 +48,11 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 
+
+
 These libraries are widely used in modern data analysis and scientific computing workflows.
+
+
 
 Concepts Practiced
 Data Cleaning
