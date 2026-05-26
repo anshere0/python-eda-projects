@@ -20,6 +20,9 @@ Data visualization
 Future ML Scope
 Survival prediction model
 Classification using Logistic Regression / Random Forest
+
+
+
 2. Netflix Dataset EDA
 
 Analysis of Netflix movies and TV shows to identify trends and patterns.
